@@ -1,0 +1,5 @@
+django
+djangorestframework
+clickhouse-driver
+confluent-kafka
+pydantic
