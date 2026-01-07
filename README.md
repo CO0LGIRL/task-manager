@@ -1,5 +1,6 @@
 # Task Manager
 
+[![CI Pipeline](https://github.com/CO0LGIRL/task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/CO0LGIRL/task-manager/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Django](https://img.shields.io/badge/Django-4.2-green)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-latest-black)
